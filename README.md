@@ -1,4 +1,4 @@
-# alpha
+# Alpha
 My First CI/CD Project
 
 Project Alpha is my personal initiative to apply certain new knowledge about technologies like:
