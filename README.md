@@ -22,3 +22,4 @@ gathering stats, finally use a library to create excel output file and download.
 
 This is a initial diagram of solution:
 
+<img width="911" alt="image" src="https://user-images.githubusercontent.com/72888433/116820125-5a3b6d00-ab41-11eb-9ee2-0a59cf8e1c6a.png">
