@@ -19,3 +19,6 @@ collection and get stats about latency, and build a Excel file with this number 
 
 The web UI ask for postman collection file and upload it, ask for what environment need to run, and execute test to
 gathering stats, finally use a library to create excel output file and download.
+
+This is a initial diagram of solution:
+
